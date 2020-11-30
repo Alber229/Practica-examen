@@ -3,5 +3,9 @@ El padrino 2
 El nombre de la rosa
 Indiana Jones y la última cruzada
 <<<<<<< HEAD
+<<<<<<< HEAD
 El caballero oscuro
 >>>>>>> desarrollo
+=======
+Sin perdon
+>>>>>>> c66c340b5e6de782a7f581b6a699a84562b60f6a
